@@ -160,7 +160,6 @@ img{
     margin-right: 10px;
     position: relative;
     z-index: 1;
-    overflow: hidden;
 }
 .banner .btn1::before{
     content: "";
